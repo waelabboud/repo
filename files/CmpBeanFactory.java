@@ -7,6 +7,9 @@
  * warranty is expressed or implied by Tangoe, if Tangoe grants
  * the right to use or re-use this source code.
  * ------------------------------------------------------------------------
+ 
+ VERSION 2
+ 
  */
 
 package com.tangoe.cmp.common.business.beans;
