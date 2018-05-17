@@ -12,7 +12,7 @@
  
  */
 
-package com.tangoe.cmp.common.business.beans;
+package com.tangoe.cmp.common.business.beans; ;;;
 
 import java.util.HashMap;
 
